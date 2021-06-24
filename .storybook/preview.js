@@ -1,7 +1,6 @@
 import { Box, Container, createMuiTheme, MuiThemeProvider } from "@material-ui/core";
 import { GlobalStyle } from "./GlobalStyle";
 
-
 /**
  * Default config (no changes)
  */
